@@ -8,8 +8,8 @@ github: https://github.com/woyouwole2012/
 baseurl: 
 description: Almost, nothing is impossible!
 meta_description: 石钟;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+motto: Knowledge is power , Time is money .
+banner: 生气，是拿别人的错误惩罚自己。
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
