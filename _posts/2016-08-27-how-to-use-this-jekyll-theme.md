@@ -10,7 +10,6 @@ tag: Jekyll模版使用教程
 {:toc}
 
 
-# LessOrMore
 
 
 ### 致谢
